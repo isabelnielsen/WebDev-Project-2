@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(209, 242, 255);
+    text-align: center;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h3{
+    font-family:monospace;
+    text-align: center;
+}
+
+.width{
+    width:65%;
+    align-content: center;
+}
+
+.copyright{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}

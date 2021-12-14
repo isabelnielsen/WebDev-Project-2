@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(209, 242, 255);
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom:3%
+}
+
+h5{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0.856);
+}
+
+p{
+    font-family:monospace
+}
+
+li{
+    font-family: monospace;
+}
+
+.homeimages{
+    height:450px;
+    width:450px;
+    float: left;
+}
+
+.aboutimages{
+    height:400px;
+    width:400px;
+}
